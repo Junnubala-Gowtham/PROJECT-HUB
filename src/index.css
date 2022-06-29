@@ -1,0 +1,9 @@
+body {
+  background-color: rgba(143, 237, 227, 0.652) !important;
+}
+
+.project-img {
+  width: 200px;
+  height: 200px;
+  border-radius: 5%;
+}
